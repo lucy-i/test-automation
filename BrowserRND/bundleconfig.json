@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "engine.min.js",
+    "inputFiles": [
+      "engine.js"
+    ]
+  }
+]

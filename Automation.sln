@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9ED006C6-613D-48CF-88A8-F4C672A6DB06}"
 EndProject
@@ -37,5 +37,26 @@ Global
 		{8753097C-9C33-4EF2-9CDA-0A42272B46E5} = {9ED006C6-613D-48CF-88A8-F4C672A6DB06}
 		{833006F8-EE52-45B2-A093-8A9FB5F797B5} = {9ED006C6-613D-48CF-88A8-F4C672A6DB06}
 		{ECE38773-1A35-4E37-ADEB-28CA4F8DBCB9} = {9ED006C6-613D-48CF-88A8-F4C672A6DB06}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E26A0F-8DDD-4B54-B19D-EC9D8ED77312}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ilucy.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BrowserRND\\BrowserRND.csproj
+		SccProjectTopLevelParentUniqueName1 = Automation.sln
+		SccProjectName1 = BrowserRND
+		SccLocalPath1 = BrowserRND
+		SccProjectUniqueName2 = WebProxy\\WebProxy.csproj
+		SccProjectTopLevelParentUniqueName2 = Automation.sln
+		SccProjectName2 = WebProxy
+		SccLocalPath2 = WebProxy
+		SccProjectUniqueName3 = FormBrowser\\FormBrowser.csproj
+		SccProjectTopLevelParentUniqueName3 = Automation.sln
+		SccProjectName3 = FormBrowser
+		SccLocalPath3 = FormBrowser
 	EndGlobalSection
 EndGlobal
